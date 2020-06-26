@@ -1,11 +1,11 @@
 # Tableau Homework - Citi Bike Analytics
-![Image](Ridheship.png)
+![Image](Rideship.png)
 
 Dashboard – Rideship
 
 From these two charts, we can see that August and September of 2019 are the peak months of total rideship for both members and consumers. Due to drastic weathers during winter times in Jersey City, we notice a trend of increase percent of total rideship during spring and summer seasons hitting its peak in September with a total of 49,244 rides followed by a profound decrease in total tideship in following months entering the winter season. 
 
-![Imahge](PeakHours_.png)
+![Image](PeakHours_.png)
 
 Dashboard- Why peak hours?
 
