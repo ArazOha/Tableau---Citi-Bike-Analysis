@@ -1,5 +1,5 @@
 # Tableau Homework - Citi Bike Analytics
-![Rideship](dashboard-ridheship.png)
+![Rideship](Dashboard - Ridheship.png)
 
 ## Background
 
