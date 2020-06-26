@@ -15,7 +15,7 @@ Based on the demographics of the given population of the data set, the vast majo
 
 Dashboard – Map 
 
-This start and end map indicate the most and least popular start and end locations of ride stations by looking at the size of the circles on the map. The bigger the size, the more popular the station as and vice versa. 
+This start and end map indicate the most and least popular start and end locations of ride stations by looking at the size of the circles on the map. 
 
 
 ## Background
