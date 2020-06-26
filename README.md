@@ -1,5 +1,22 @@
 # Tableau Homework - Citi Bike Analytics
-![Rideship](Ridheship.png)
+![Image](Ridheship.png)
+
+Dashboard – Rideship
+
+From these two charts, we can see that August and September of 2019 are the peak months of total rideship for both members and consumers. Due to drastic weathers during winter times in Jersey City, we notice a trend of increase percent of total rideship during spring and summer seasons hitting its peak in September with a total of 49,244 rides followed by a profound decrease in total tideship in following months entering the winter season. 
+
+![Imahge](PeakHours_.png)
+
+Dashboard- Why peak hours?
+
+Based on the demographics of the given population of the data set, the vast majority of age groups fall in those of working age. Therefore, we see two peak hours, one being around 8 am and the second being around 6pm. Indicating that vast majority of people riding bikes utilize them to go to work and back regardless of month/season.
+
+![Image](PopularLocations.png)
+
+Dashboard – Map 
+
+This start and end map indicate the most and least popular start and end locations of ride stations by looking at the size of the circles on the map. The bigger the size, the more popular the station as and vice versa. 
+
 
 ## Background
 
